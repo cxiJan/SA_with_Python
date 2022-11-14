@@ -1,6 +1,7 @@
-aargang = '2022'
-klass_id = 533
-publiseringsdato = '20220901'
-omrade = 'KULTSTA'
-kortnavn = 'trosamf'
+start=200501  #verdien skal være numerisk
+end=202209
+#klass_id = 533
+#publiseringsdato = '20220901'
+#omrade = 'KULTSTA'
+#kortnavn = 'trosamf'
 # See documentation: https://statistics-norway.atlassian.net/wiki/spaces/MS/pages/1586204488/Navngivningsrutiner+p+DAPLA
